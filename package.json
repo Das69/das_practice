@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Warning: no test configured\"",
+    "test": "echo \"Warning: no test configured\""
   },
   "repository": {
     "type": "git",
